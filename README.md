@@ -1,2 +1,2 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hello+world+!;Just+Keep+Swimming!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C9A7&size=28&width=450&lines=Hello+World!;Just+Keep+Swimming!)
